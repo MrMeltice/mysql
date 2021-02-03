@@ -1,0 +1,45 @@
+Hi, my name is [REDACTED] 
+
+Introduction
+This white paper suggests a potentially high-reward secondary science target that may be
+appropriate to include during a revised Kepler planet search r is to be repurposed to
+observe a field on or near the ecliptic plane we suggest that be included in the field of
+view. Assuming an appropriate fie dditional resources
+to observe this planet. A longterm photometric series taken of
+could potentiallly detect internal os net and open a new windo
+probing the interior structure of an ice giant. Kepler has demonstrated both that ice giants are
+common in the galaxy and the exceptional value of continuous photo nitoring for
+detecting and interpreting stellar oscillations. A Kepler observation of would
+appropriately combine these two successes to perhaps similarly dissec ior structure of
+one of our own ice giants.
+Scientific Background
+The classes of solar system planets: the gas giants and the ice gian
+with masses around 16 asses comprise a distinct class from
+masses. The primary constituents es greater than about l
+hin atmospheric are likely ices surrounding ky core with a r
+of h ich gas. Kepler has ably demonstrated that such mass
+much more common than gas giants in fact---outside of th stem
+It is thus important to understand the interior structure of these worlds in
+del their formation and evolution. Unfortunately our best data on the interior structure
+of these worlds comes from the gravitational harmonics measured during the single flybys of
+Voyager 2 about 25 years ago. Given the uncert armonics, a number of possible
+interior structu compositions are possible
+Guillot outlines a number of impo surrounding the ice giants.
+ne the s eir cores and the composition of their deep envelopes. Marley et al.
+employed a Monte Carlo method for the construction of interior models and
+strated that the uncer ere sufficiently great that both
+ell as continuously varying models
+were possible. Without new
+from the available data.
+Seismology is "by far the most promising technique for
+constraining the core mass of the uncertainties that plague interior
+model inversion. In principle, for a fixed spherical harmonic degree, acoustic oscillation modes
+of sequentially higher order n penetrate progressively less deeply into the interior. Some
+oscillation modes thus "see" the core while others do not, The progression of mode
+frequenciesif observed--uniquely delineates the size of the planet's core as well as the
+structure of the envelope. The basic theo be
+discussed a tsov et al.
+omputing giant planet oscillat
+and includes work by Mosser for
+and Marley for
+The bee ber of searches for giant planet oscillations, primarily for 
